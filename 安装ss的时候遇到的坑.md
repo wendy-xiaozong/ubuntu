@@ -14,11 +14,8 @@
 > 如果在上浏览器自带的里面找不到，就去网上找软件包。然后直接拖拽到安装包安装的地方就好了。
 - Firefox: foxyproxy Standard
 > 直接在浏览器中搜索就好了。照常填好之后要把下面图片中左侧的DNS的那个按键打开。之后我就可以直接上网了。这是为什么还是希望大家指教
-<center>
-<img alt="运作机制" src="https://github.com/wendy-xiaozong/ubuntu/raw/master/Screenshot%20from%202018-02-04%2011-12-44.png" width="600" />
-</center>
+！[图片](https://github.com/wendy-xiaozong/ubuntu/raw/master/Screenshot%20from%202018-02-04%2011-12-44.png)
 4. 设置开机自动启动
 在/etc/rc.local中添加你的启动命令。
-
 5. 使用polipo和proxychain
 > 我两个都没有成功,不知道是不是因为我的系统代理没有设置成功导致的。同希望知道的人告诉我。
